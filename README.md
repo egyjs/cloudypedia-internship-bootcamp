@@ -1,4 +1,4 @@
-# cloudypedia-internship-bootcamp
+# Cloudypedia Internship bootcamp (2 weeks)
 
 Welcome to the official knowledge-sharing repository for the **Cloudypedia Internship Bootcamp – Summer 2025 Internship**.
 ---
@@ -66,7 +66,7 @@ If you're a collaborator, please use a **Pull Request (PR)** instead of pushing 
 #### 🧭 1. Clone the Repo (First Time Only)
 ```bash
 git clone https://github.com/mohamed-khalaf9/cloudypedia-internship-bootcamp.git
-cd /cloudypedia-internship-bootcamp
+cd cloudypedia-internship-bootcamp
 ```
 
 #### 🔄 2. Create a New Branch
@@ -132,7 +132,7 @@ This may include:
 2. Add your link in this format:
 
 ```md
-- [Resource Title](https://link.com) – *shared by YourName*
+- [Resource Title](https://link.com) – *shared by Mohamed*
 ````
 
 ✅ **Example:**
